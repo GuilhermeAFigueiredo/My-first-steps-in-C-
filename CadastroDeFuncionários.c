@@ -1,3 +1,4 @@
+/*that is my second project, a employee registrar*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
