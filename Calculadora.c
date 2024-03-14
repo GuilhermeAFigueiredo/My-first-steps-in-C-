@@ -1,3 +1,4 @@
+This is my first project ever, a calculator in C
 #include <stdio.h>
 
 int main() {
